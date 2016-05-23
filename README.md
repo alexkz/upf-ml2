@@ -1,6 +1,4 @@
 
-croissant,10.95.155.235 ssh-rsborative filtering
-
 Setup a Virtual environment
 
 $ virtualenv -p python3 venv
